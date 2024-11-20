@@ -22,7 +22,7 @@ A simple PHP login system with session management, form validation, and smooth a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/php-login-system.git
+   git clone https://github.com/DzsangaGIT/Login-System-PHP.git
    ```
 
 2. Place the files in your web server's root directory (e.g., `/htdocs/` for XAMPP).
