@@ -1,5 +1,4 @@
 
-```markdown
 # PHP Login System with Animated UI
 
 A simple PHP login system with session management, form validation, and smooth animations. This system includes login, profile, and logout functionalities with a "Remember Me" feature.
